@@ -27,7 +27,7 @@ O **LogoAX** é um ambiente interativo de aprendizagem para exploração geomét
 
 Por ser uma aplicação baseada em *client-side* (HTML/JavaScript/Python via Skulpt), não é necessária a instalação de dependências ou servidores.
 
-1. Baixe o arquivo `logo6.html` (ou clone o repositório).
+1. Baixe o arquivo `index.html` (ou clone o repositório).
 2. Abra o arquivo diretamente em qualquer navegador web moderno.
 
 ---
