@@ -95,3 +95,28 @@ Sintaxe: `repita n [comandos]`
 Exemplo para desenhar um quadrado de lado 100:
 ```logo
 repita 4 [pf 100 pd 90]
+```
+
+### Comando `aprenda`
+Sintaxe:
+```logo
+aprenda nome_procedimento :parametro1 :parametro2
+    [comandos]
+fim
+```
+
+Exemplo:
+```logo
+aprenda quadrado :lado
+    repita 4 [pf :lado pd 90]
+fim
+```
+
+---
+
+## 👥 Créditos e Autoria
+
+- **Desenvolvimento:** Alex Jordane
+- **Colaboração:** Inteligência Artificial Gemini (versão 3.1 Pro)
+- **Propósito:** Educacional — acesso exclusivo e apoio aos estudantes da disciplina *Tecnologias Digitais em Educação Matemática*.
+- **Mecanismo de Execução:** Interpretador [Skulpt](https://skulpt.org/).
